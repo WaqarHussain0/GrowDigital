@@ -1,3 +1,7 @@
+.margin-topss
+{
+  margin-top: 30px;
+}
 .App {
   text-align: center;
 }
@@ -35,4 +39,8 @@
   to {
     transform: rotate(360deg);
   }
+}
+.object-fit-cover
+{
+  object-fit: cover;
 }
